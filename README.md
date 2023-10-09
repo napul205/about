@@ -1,4 +1,4 @@
-https://holopin.me/napul205)](https://holopin.io/@napul205
+[![An image of @napul205's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/napul205)](https://holopin.io/@napul205)
 # 💫 About Me:
 🔭 I’m currently working on my portfolio website<br>🌱 I’m currently learning react with the help of youtube<br>💬 Ask me about github<br>
 
